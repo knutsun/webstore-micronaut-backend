@@ -1,0 +1,11 @@
+micronaut:
+  application:
+    name: store
+  server:
+    cors:
+      enabled: true
+      configurations:
+        web:
+          allowedOrigins:
+            - http://localhost:3000
+    port: 8080

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "purse",
+    "image": "https://i1.ebayimg.com/images/g/Hn8AAOSwdCdfghtg/s-l140.jpg",
+    "description": "A unique design",
+    "price": 50
+  },
+  {
+    "name": "purse dos",
+    "image": "https://cdn.shopify.com/s/files/1/0260/1439/products/AshBlue-Legend-Front_2048x2048.jpg?v=1549028068",
+    "description": "A unique design",
+    "price": 85
+  },
+  {
+    "name": "purse tres",
+    "image": "https://i1.ebayimg.com/images/g/Hn8AAOSwdCdfghtg/s-l140.jpg",
+    "description": "A unique design",
+    "price": 25
+  }
+]
